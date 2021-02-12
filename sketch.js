@@ -4,11 +4,11 @@ var mouse,mouseImg;
 var gameoverImg
 function preload() {
     //load the images here
-bgImage=loadImage("images/garden.png");
-catImg=loadImage("images/cat2.png");
-mouseImg=loadImage("images/mouse1.png");
+bgImage=loadImage("garden.png");
+catImg=loadImage("cat2.png");
+mouseImg=loadImage("mouse1.png");
 
-gameoverImg=loadImage("images/gameover.png");
+gameoverImg=loadImage("gameover.png");
 
 }
 
